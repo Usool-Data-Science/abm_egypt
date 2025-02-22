@@ -45,7 +45,7 @@ This will fetch eBay product listings based on the specified search query and sa
 ### Running Tests  
 To run unit tests and validate the scraper:  
 ```sh  
-python3 test_scrape.py  
+python test_scrape.py  
 ```  
 
 ## Configuration  
